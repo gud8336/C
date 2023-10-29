@@ -1,0 +1,249 @@
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\user\source\repos\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+F:\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+F:\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\user\source\repos\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\sungmin\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookAddView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookDelView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookModifyView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminDefaultPage.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Properties.Resources.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookAddView.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookDelView.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookModifyView.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminDefaultPage.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Properties.Resources.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\YUHAN\Documents\카카오톡 받은 파일\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookAddView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookDelView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookModifyView.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.adminDefaultPage.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\user\Documents\카카오톡 받은 파일\BookManage (1)\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\user\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookAddView.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookDelView.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookModifyView.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminDefaultPage.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Properties.Resources.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\user\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.exe
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.deps.json
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.runtimeconfig.json
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BookManage.pdb
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.AssemblyReference.cache
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookAddView.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookDelView.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminBookModifyView.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.adminDefaultPage.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.BookDetail.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Login.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Main.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.Properties.Resources.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.RegisterMember.resources
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.GenerateResource.cache
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfoInputs.cache
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.AssemblyInfo.cs
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CoreCompileInputs.cache
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.csproj.CopyComplete
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\refint\BookManage.dll
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.pdb
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\BookManage.genruntimeconfig.cache
+C:\Users\gud83\Desktop\BookManage\BookManage\obj\Debug\net6.0-windows\ref\BookManage.dll
